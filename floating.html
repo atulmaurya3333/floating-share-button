@@ -12,3 +12,14 @@
 			<i class="fa fa-whatsapp"></i>
 		</div>
 </div>
+<script>
+	$(document).ready(function(){
+		$(".floating1").click(function(){
+			$(".floating2").slideToggle(100,"linear",function(){
+				$(".floating3").slideToggle(100,"linear",function(){
+					$(".floating4").slideToggle(100,"linear");
+				});
+			});
+		});
+	});
+</script>
