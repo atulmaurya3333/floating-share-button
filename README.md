@@ -4,18 +4,18 @@ This include jQuery,FontAwesome,bootstrap 4 CDN
 #Add Following code to your code
 ###HTML CODE
 <div class="floating-social">
-		<div class="floating1 bg-success text-center">
-			<i class="fa fa-share-alt"></i>
-		</div>
-		<div class="floating2 text-center">
-			<i class="fa fa-facebook"></i>
-		</div>
-		<div class="floating3 text-center">
-			<i class="fa fa-twitter"></i>
-		</div>
-		<div class="floating4 text-center">
-			<i class="fa fa-whatsapp"></i>
-		</div>
+<div class="floating1 bg-success text-center">
+	<i class="fa fa-share-alt"></i>
+</div>
+<div class="floating2 text-center">
+	<i class="fa fa-facebook"></i>
+</div>
+<div class="floating3 text-center">
+	<i class="fa fa-twitter"></i>
+</div>
+<div class="floating4 text-center">
+	<i class="fa fa-whatsapp"></i>
+</div>
 </div>
 
 
